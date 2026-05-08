@@ -8,5 +8,16 @@ items_small = {
     "glove":  (5, 5),
 }
 
+
+items_small_weight = {
+    "apple":  1,
+    "book":   3,
+    "candle": 1
+    "dice":   1,
+    "egg":    1,
+    "fan":    2,
+    "glove":  2,
+}
+
 e.g. order: 
 ["apple", "egg", "fan", "book"]
