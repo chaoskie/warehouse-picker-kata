@@ -20,3 +20,28 @@ items_big = {
     "salt":      (5, 7),
     "tea":       (10, 11),
 }
+
+items_weight = {
+    "almonds":   1,
+    "batteries": 1
+    "candles":   1,
+    "detergent": 1,
+    "eggs":      1,
+    "flour":     1,
+    "glue":      1,
+    "honey":     1,
+    "ink":       1,
+    "jam":       2,
+    "ketchup":   2,
+    "lentils":   1,
+    "mustard":   2,
+    "noodles":   2,
+    "oats":      3,
+    "pepper":    3,
+    "quinoa":    4,
+    "rice":      4,
+    "salt":      4,
+    "tea":       1,
+}
+
+
