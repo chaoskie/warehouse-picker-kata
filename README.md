@@ -9,3 +9,8 @@ Write a function that takes an order and returns the sequence the picker should 
 You'll be given a grid with coordinates and a shelf-to-item map.
 
 assume the picker can move in 4 directions, one position at a time. Shelves are obstacles you walk around, not through.
+
+
+desired output:
+[ "0,0", "0,1", "pick apple", "0,0", "done"]
+
