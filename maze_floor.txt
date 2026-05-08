@@ -14,3 +14,30 @@
 12  .  .  .  .  .  #  .  .  .  .  .  .  .  .  .
 13  .  .  .  .  .  #  .  .  .  .  .  .  .  .  .
 14  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
+
+
+Maze_item_locations:
+items_maze = {
+    "almonds":   (1, 1),    # top-left corner
+    "batteries": (3, 1),    # top, narrow corridor (1-cell wide between shelves)
+    "candles":   (7, 1),    # top middle
+    "dates":     (11, 1),   # top right
+    "eggs":      (1, 3),    # left side, accessed from top aisle
+    "flour":     (5, 3),    # tucked in a small pocket (5,2)-(6,2) opens it up
+    "ginger":    (11, 3),   # right side, multiple access points
+    "honey":     (14, 3),   # far-right edge column
+    "ink":       (3, 5),    # middle-left
+    "jam":       (5, 5),    # middle, near a tight passage at (6,5)
+    "ketchup":   (11, 5),   # middle-right
+    "lentils":   (1, 6),    # left mid
+    "Mustard":   (8, 6),    # only reachable from north (8,5) or south (8,7)
+    "noodles":   (1, 7),    # left side
+    "oats":      (7, 7),    # inside a pocket — only one entry point at (8,7)
+    "pepper":    (13, 7),   # far right
+    "quinoa":    (3, 8),    # middle-left, has a stray wall at (3,8)... wait this IS the shelf
+    "rice":      (3, 9),    # bottom middle-left
+    "salt":      (9, 9),    # bottom middle
+    "tea":       (11, 9),   # bottom middle-right
+    "Carrot":    (3, 14),   # bottom middle-right
+    "Beer":      (11, 14),   # bottom middle-right
+}
