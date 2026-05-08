@@ -1,11 +1,11 @@
 items_small = {
-    "apple":  (3, 1),
-    "book":   (0, 3),
-    "candle": (6, 2),
-    "dice":   (3, 5),
-    "egg":    (7, 4),
-    "fan":    (3, 7),
-    "glove":  (6, 6),
+    "apple":  (1, 2),
+    "book":   (2, 2),
+    "candle": (5, 2),
+    "dice":   (4, 5),
+    "egg":    (4, 4),
+    "fan":    (1, 5),
+    "glove":  (5, 5),
 }
 
 e.g. order: 
